@@ -1,0 +1,5 @@
+mongodb:
+  restart: always
+  image: tutum/mongodb:latest
+  ports:
+    - 27017:27017
