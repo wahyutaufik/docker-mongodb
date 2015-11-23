@@ -5,4 +5,4 @@ mongodb:
   volumes:
     - /srv/mongodb:/data/db
   environment:
-    AUTH: no
+    AUTH: "no"
