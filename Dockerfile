@@ -1,5 +1,5 @@
 FROM ubuntu:14.04
-MAINTAINER Tutum Labs <support@tutum.co>
+MAINTAINER Wahyu Taufik <wahyutaufik37@gmail.com>
 
 ENV APT_PROXY http://192.168.1.10:3128
 
